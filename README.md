@@ -11,9 +11,9 @@ Follow the instructions to install MJML, you can find it their documentation or 
 
 # Atomic Design for Emails
 
-While Atomic Design was originally intended for a website or a webapp, it's also true that the same concept can be applied for a mobile app, so what not for emails? :boom: But let's be real, not all the same components are shared between the two and also building a pattern lab or style guide inside MJML presents some of it's own challenges. But let's start out by listing all the atoms, then molecules, organisms, and templates and finally instead of pages, I'm going to call them what they are, emails.
+While Atomic Design was originally intended for a website or a webapp, it's also true that the same concept can be applied for a mobile app, so what not for emails? :boom: We don't need nearly all the components a website or mobile app need, so here's a list of all the atoms, molecules, organisms, and templates and finally instead of pages, I'm going to call them what they are, emails.
 
-Let's be honest, emails don't need to be complicated. Instead of listing every single element I can think of, I'm going to only include the ones that I will actually be using in the mindset of an ecommerce company that has both transactional and marketing email templates. So in some ways this will be opinionated, if there's something I left out, or something you think I did worng feel free to make a pull request :kissing_smiling_eyes:
+I should also note that when I came up with this list it was in the mindset of designing for an ecommerce platform, so it the system would require to be able to do both marketing and transactional emails. If there's something I left out, or something you think I did worng, feel free to make a pull request :kissing_smiling_eyes:
 
 
 ## Atoms 
