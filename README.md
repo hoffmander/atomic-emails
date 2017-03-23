@@ -60,7 +60,7 @@ Let's be honest, emails don't need to be complicated. Instead of listing every s
 * Heros
 * Cards
 
-#### Organisms 
+## Organisms 
 
 * Header
 * Body
@@ -68,12 +68,12 @@ Let's be honest, emails don't need to be complicated. Instead of listing every s
 * Tables
 * Panels
 
-#### Templates
+## Templates
 
 * Transactional
 * Marketing
 
-### Emails
+## Emails
 :boom: :dizzy: :rocket:
 
 
