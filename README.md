@@ -68,7 +68,7 @@ Let's be honest, emails don't need to be complicated. Instead of listing every s
 * Tables
 * Panels
 
-### Templates
+#### Templates
 
 * Transactional
 * Marketing
