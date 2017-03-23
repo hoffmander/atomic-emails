@@ -54,16 +54,19 @@ Let's be honest, emails don't need to be complicated. Instead of listing every s
 
 ## Molecules 
 
-* Navigations
+* Primary Navigation
+* Secondary Navigation
+* Footer Navigation
 * Heros
 * Cards
-* CTA
 
 ### Organisms 
 
 * Header
 * Body
 * Footer
+* Tables
+* Panels
 
 ### Templates
 
