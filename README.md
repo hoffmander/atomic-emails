@@ -15,7 +15,7 @@ While Atomic Design was originally intended for the web, it's also true that the
 
 ## Atoms 
 
-Let's be honest, emails don't need to be complicated. Instead of listing every single element I can think of, I'm going to only include the ones that I will actually be used. So in some ways this will be opinionated, if there's something I left out, feel free to make a pull request :kissing_smiling_eyes:
+Let's be honest, emails don't need to be complicated. Instead of listing every single element I can think of, I'm going to only include the ones that I will actually be using in the mindset of an ecommerce company that has both transactional and marketing email templates. So in some ways this will be opinionated, if there's something I left out, or something you think I did worng feel free to make a pull request. :kissing_smiling_eyes:
 
 ### Colors
 * Brand Colors
@@ -53,7 +53,6 @@ Let's be honest, emails don't need to be complicated. Instead of listing every s
 
 
 ## Molecules 
-Again, these are biased, mostly made in the mindset of an ecommerce store. So there are both transactional and marketing emails.
 
 * Navigations
 * Heros
