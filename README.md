@@ -17,17 +17,17 @@ While Atomic Design was originally intended for the web, it's also true that the
 
 Let's be honest, emails don't need to be complicated. Instead of listing every single element I can think of, I'm going to only include the ones that I will actually be using in the mindset of an ecommerce company that has both transactional and marketing email templates. So in some ways this will be opinionated, if there's something I left out, or something you think I did worng feel free to make a pull request. :kissing_smiling_eyes:
 
-### Colors
+#### Colors
 * Brand Colors
 * Neutral Colors
 * Utility Colors
 
-### Typography
+#### Typography
 * Fonts
 * Headlines
 * Horizontal Rule
 
-### Inline Elements
+#### Inline Elements
 * Text Link
 * Strong
 * Emphasis
@@ -39,7 +39,7 @@ Let's be honest, emails don't need to be complicated. Instead of listing every s
 * Inline Images
 * Icons
 
-### Block Elements
+#### Block Elements
 * Block Images
 * Unordered Lists
 * Ordered Lists
@@ -60,7 +60,7 @@ Let's be honest, emails don't need to be complicated. Instead of listing every s
 * Heros
 * Cards
 
-### Organisms 
+#### Organisms 
 
 * Header
 * Body
