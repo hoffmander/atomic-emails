@@ -14,7 +14,6 @@
         <mj-column>
             <mj-text>
                 <h1>Atoms</h1>
-                <p>Hello</p>
             </mj-text>
         </mj-column>          
       </mj-section>
@@ -24,7 +23,7 @@
       <mj-include path="./atoms/_buttons"/> 
       <mj-include path="./atoms/_lists"/> 
       <mj-include path="./atoms/_images"/>
-      <mj-include path="./atoms/_panels"/> 
+      <mj-include path="./atoms/_panel"/> 
     </mj-container>
   </mj-body>
 </mjml>
