@@ -73,6 +73,7 @@ I should also note that when I came up with this list it was in the mindset of d
 ## Templates
 
 * Basic Layout 
+
 This will be the entire email with all the pieces put together but without any content. It will consist a header, followed by a blank section for content and ending with a footer. More templates maybe to come.
 
 ###Transactional
