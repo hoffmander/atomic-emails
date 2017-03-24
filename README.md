@@ -34,12 +34,12 @@ I should also note that when I came up with this list it was in the mindset of d
 * Underline
 * Strikethrough
 * Small
-* Paragraph
 * Buttons
 * Inline Images
 * Icons
 
 #### Block Elements
+* Paragraph
 * Block Images
 * Unordered Lists
 * Ordered Lists
