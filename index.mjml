@@ -10,20 +10,43 @@
   <mj-body>
     <mj-container background-color="#d7dde5">
       <mj-section background-color="#d7dde5" padding="16px"></mj-section>
+     
       <mj-section background-color="#fff">
         <mj-column>
             <mj-text>
                 <h1>Atoms</h1>
             </mj-text>
-        </mj-column>          
+        </mj-column>   
       </mj-section>
-      <mj-include path="./atoms/_colors"/>
-      <mj-include path="./atoms/_typography"/> 
+
+      <mj-include path="./atoms/_color-brand"/>
+      <mj-include path="./atoms/_color-neutral"/>
+      <mj-include path="./atoms/_color-utility"/>
+
+      <mj-include path="./atoms/_typography-fonts"/> 
+      <mj-include path="./atoms/_typography-headlines"/>
+      <mj-include path="./atoms/_typography-horizontalRule"/> 
+      <mj-include path="./atoms/_typography-inline"/> 
+      <mj-include path="./atoms/_typography-icons"/>
+      
       <mj-include path="./atoms/_icons"/> 
       <mj-include path="./atoms/_buttons"/> 
       <mj-include path="./atoms/_lists"/> 
       <mj-include path="./atoms/_images"/>
-      <mj-include path="./atoms/_panel"/> 
+
+      <mj-section background-color="#fff">
+        <mj-column>
+            <mj-text>
+                <h1>Molecules</h1>
+            </mj-text>
+        </mj-column>   
+      </mj-section>
+
+      <mj-include path="./molecules/_navigation-primary"/>
+      <mj-include path="./molecules/_navigation-secondary"/>
+
+
+      <mj-include path="./atoms/_tableHeader"/> 
     </mj-container>
   </mj-body>
 </mjml>

@@ -44,18 +44,19 @@ I should also note that when I came up with this list it was in the mindset of d
 * Unordered Lists
 * Ordered Lists
 * Sections
-* Table Headers
+* Table Header
 * Table Body
-* Table Rows
-* Table Cells
-* Panels Headers
-* Panels Rows
+* Table Row
+* Table Cell
+* Panels Header
+* Panels Row
 
 
 ## Molecules 
 * Primary Navigation
 * Secondary Navigation
-* Footer Navigation
+* Tables
+* Panels
 * Heros
 * Cards
 
