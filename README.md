@@ -54,12 +54,7 @@ I should also note that when I came up with this list it was in the mindset of d
 ## Molecules 
 * Primary Navigation
 * Secondary Navigation
-* Tables
-* Panels
-* Heros
 * Cards
-* Carousel
-* Accordion 
 
 ## Organisms 
 * Container
@@ -68,6 +63,8 @@ I should also note that when I came up with this list it was in the mindset of d
 * Footer
 * Tables
 * Panels
+* Heros
+* Accordions
 
 ## Templates
 * Basic Layout 
