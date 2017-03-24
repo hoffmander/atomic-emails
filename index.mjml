@@ -1,11 +1,12 @@
 <mjml>
   <mj-head>
-    <mj-title>Hello MJML</mj-title>
-    <mj-font name="Rubik" href="https://fonts.googleapis.com/css?family=Rubik:400,700" />
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:400,700" />
     <mj-attributes>
-      <mj-text padding="0" font-size="14px" font-family="Rubik" />
-      <mj-section padding="30px 16px" background-color="#ffffff" />
-      <mj-class name="foobar" padding="10px 30px"  />
+      <mj-all font-size="14px" font-family="Lato" />
+      <mj-text padding="12px" />
+      <mj-section padding="16px" background-color="#ffffff" />
+      <mj-class name="background-blue-darker" background-color="#1E4D81" />
+      <mj-class name="btn" border-radius="3px" align="left" inner-padding="10px 16px" padding="12px" font-size="12px" font-weight="700"/>
     </mj-attributes>
     <mj-style>
       @media all and (max-width: 480px) {
@@ -17,9 +18,9 @@
   </mj-head>
   <mj-body>
     <mj-container background-color="#d7dde5">
-      <mj-section background-color="#d7dde5" padding="16px"></mj-section>
+      <mj-section background-color="#d7dde5"></mj-section>
      
-      <mj-section background-color="#fff">
+      <mj-section background-color="#fff" padding="0px 16px">
         <mj-column>
             <mj-text>
                 <h1>Atoms</h1>
@@ -35,15 +36,14 @@
       <mj-include path="./atoms/_typography-headlines"/>
       <mj-include path="./atoms/_typography-horizontalRule"/> 
       <mj-include path="./atoms/_typography-inline"/> 
-      <mj-include path="./atoms/_typography-icons"/>
       
       <mj-include path="./atoms/_icons"/> 
       <mj-include path="./atoms/_buttons"/> 
       <mj-include path="./atoms/_lists"/> 
-      <mj-include path="./atoms/_images"/>Atoms  
+      <mj-include path="./atoms/_images"/>
 
-      <mj-section background-color="#d7dde5" padding="16px"></mj-section>
-      
+      <mj-section background-color="#d7dde5"></mj-section>
+
       <mj-section background-color="#fff">
         <mj-column>
             <mj-text>
@@ -54,9 +54,26 @@
 
       <mj-include path="./molecules/_navigation-primary"/>
       <mj-include path="./molecules/_navigation-secondary"/>
+      <mj-include path="./molecules/_card"/>
+      
+      <mj-section background-color="#d7dde5"></mj-section>
 
+      <mj-section background-color="#fff">
+        <mj-column>
+            <mj-text>
+                <h1>Organisms</h1>
+            </mj-text>
+        </mj-column>   
+      </mj-section>
 
-      <mj-include path="./atoms/_tableHeader"/> 
+      <mj-include path="./organisms/_header"/>
+      <mj-include path="./organisms/_footer"/>      
+      <mj-include path="./organisms/_accordion"/>
+      <mj-include path="./organisms/_carousel"/>
+      <mj-include path="./organisms/_hero"/>
+      <mj-include path="./organisms/_panel"/>
+      <mj-include path="./organisms/_table"/>
+
     </mj-container>
   </mj-body>
 </mjml>

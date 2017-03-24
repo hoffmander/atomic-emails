@@ -1,0 +1,35 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:400,700" />
+    <mj-attributes>
+      <mj-all font-size="14px" font-family="Lato" />
+      <mj-text padding="12px" />
+      <mj-section padding="16px" background-color="#ffffff" />
+      <mj-class name="background-blue-darker" background-color="#1E4D81" />
+      <mj-class name="btn" border-radius="3px" align="left" inner-padding="10px 16px" padding="12px" font-size="12px" font-weight="700"/>
+    </mj-attributes>
+    <mj-style>
+      @media all and (max-width: 480px) {
+        div[style*="color:#F45e46;"] {
+          text-align: center !important
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#d7dde5">
+      <mj-section background-color="#d7dde5"></mj-section> 
+
+      <mj-include path="../../organisms/_header"/>
+      <mj-section>
+          <mj-column>
+              <mj-text>
+                  <h1>Hello World</h1>                  
+              </mj-text>
+          </mj-column>
+      </mj-section>
+      <mj-include path="../../organisms/_footer"/>      
+
+    </mj-container>
+  </mj-body>
+</mjml>

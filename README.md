@@ -58,7 +58,7 @@ I should also note that when I came up with this list it was in the mindset of d
 * Panels
 * Heros
 * Cards
-* Slideshows
+* Carousel
 * Accordion 
 
 ## Organisms 
