@@ -45,9 +45,8 @@ I should also note that when I came up with this list it was in the mindset of d
 * Ordered Lists
 * Sections
 * Table Header
-* Table Body
 * Table Row
-* Table Cell
+* Table Definition
 * Panels Header
 * Panels Row
 
@@ -59,6 +58,8 @@ I should also note that when I came up with this list it was in the mindset of d
 * Panels
 * Heros
 * Cards
+* Slideshows
+* Accordion 
 
 ## Organisms 
 * Container
