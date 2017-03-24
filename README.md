@@ -78,7 +78,7 @@ This will be the entire email with all the pieces put together but without any c
 * Order Confirmation
 * Invite
 * Invite Recieved
-* Invite Fullfilled
+* Invite Fulfilled
 
 ### Marketing
 * Normal Promotion
@@ -89,7 +89,9 @@ This will be the entire email with all the pieces put together but without any c
 * Abandonded Cart
 
 ## Emails
-:boom: :dizzy: :rocket: Depending how your ESP and how you're actually adding content to your emails, chances are it's dynamically fed in though an API or some other means. Point being, the "email" is what the user is actually recieving, for many, it maybe not be something you see until it's actually sent. For others, you may want to consider moving all the transactional and marketing templates from templates to layouts, depending on if you have hardcoded content. 
+:boom: :dizzy: :rocket: 
+
+Depending how your ESP and how you're actually adding content to your emails, chances are it's dynamically fed in though an API or some other means. Point being, the "email" is what the user is actually recieving, for many, it maybe not be something you see until it's actually sent. For others, you may want to consider moving all the transactional and marketing templates from templates to layouts, depending on if you have hardcoded content. 
 
 
 
