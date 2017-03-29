@@ -25,7 +25,7 @@ I should also note that when I came up with this list it was in the mindset of d
 #### Typography
 * Fonts
 * Headlines
-* Horizontal Rule
+* Dividers
 
 #### Inline Elements
 * Text Link

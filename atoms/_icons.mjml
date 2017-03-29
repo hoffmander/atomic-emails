@@ -1,6 +1,12 @@
-<mj-section>
-	
+<mj-section padding-bottom="0">
+	<mj-column>
+		<mj-text>
+		    <h2 class="text-accent">Icons</h2>
+		</mj-text>
+	</mj-column>
+</mj-section>
+
+<mj-section padding-top="16px">
 	<mj-column>
 	</mj-column>
-
 </mj-section>

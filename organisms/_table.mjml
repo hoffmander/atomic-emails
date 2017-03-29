@@ -1,10 +1,18 @@
-<mj-section>
+<mj-section padding-bottom="0">
+  <mj-column>
+    <mj-text>
+        <h2 class="text-accent">Table</h2>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding-top="16px">
   <mj-column>
     <mj-table>
       <tr style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;">
-        <th style="padding: 0 15px 0 0;">Year</th>
-        <th style="padding: 0 15px;">Language</th>
-        <th style="padding: 0 0 0 15px;">Inspired from</th>
+        <th style="color: #3D1DFB; padding: 0 15px 0 0;">Year</th>
+        <th style="color: #3D1DFB; padding: 0 15px;">Language</th>
+        <th style="color: #3D1DFB; padding: 0 0 0 15px;">Inspired from</th>
       </tr>
       <tr>
         <td style="padding: 0 15px 0 0;">1995</td>
