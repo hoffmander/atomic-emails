@@ -80,6 +80,7 @@ This will be the entire email with all the pieces put together but without any c
 * Invite
 * Invite Recieved
 * Invite Fulfilled
+* Payout Notification
 
 ### Marketing
 * Normal Promotion

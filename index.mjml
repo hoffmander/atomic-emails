@@ -27,7 +27,7 @@
             </mj-text>
         </mj-column>   
       </mj-section>
-
+      
       <mj-include path="./atoms/_color-brand"/>
       <mj-include path="./atoms/_color-neutral"/>
       <mj-include path="./atoms/_color-utility"/>
