@@ -1,7 +1,6 @@
 <mjml>
   <mj-head>
     <mj-font name="Heebo" href="https://fonts.googleapis.com/css?family=Heebo:400,800" />
-    <mj-include path="./assets/_at"/>
     <mj-attributes>
       <mj-all font-size="16px" font-family="Heebo" />
       <mj-text padding="12px" color="#53576D"/>
@@ -53,7 +52,7 @@
     <mj-container background-color="#d7dde5">
       <mj-section background-color="#d7dde5"></mj-section>
      
-      <mj-section>
+      <mj-section padding-bottom="0">
         <mj-column>
             <mj-text>
                 <h1>Atoms</h1>

@@ -10,8 +10,9 @@
 	<mj-column>
 		<mj-text>
 		    <h1>Headline 1 – 36px/44px</h1>
-		    <h2>Headline 2 – 24px/32px</h1>
-		    <h2>Headline 3 – 20px/26px</h1>
+		    <h2>Headline 2 – 24px/32px</h2>
+		    <h3>Headline 3 – 20px/26px</h3>
+		    <p>hello</p>
 		</mj-text>
 	</mj-column>
 </mj-section>

@@ -23,9 +23,7 @@
       <mj-include path="../../organisms/_header"/>
       <mj-section>
           <mj-column>
-              <mj-text>
-                  <h1>Hello World</h1>                  
-              </mj-text>
+
           </mj-column>
       </mj-section>
       <mj-include path="../../organisms/_footer"/>      
